@@ -1,0 +1,8 @@
+{
+  "name": "SCHEMA FULL 💶 Stadio4K WordPress Code Generator",
+  "description": "An AI-powered tool for sports journalists to transform raw football data PDFs into optimized HTML, CSS, and JS code blocks for direct use in WordPress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
